@@ -1,0 +1,18 @@
+[submodule "mobile-app"]
+	path = mobile-app
+	url = https://github.com/Balajinator-FMI/mobile-app
+[submodule "uv-service"]
+	path = uv-service
+	url = https://github.com/Balajinator-FMI/uv-service
+[submodule "advisor-service"]
+	path = advisor-service
+	url = https://github.com/Balajinator-FMI/advisor-service
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/Balajinator-FMI/api-gateway
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/Balajinator-FMI/user-service
+[submodule "ml-service"]
+	path = ml-service
+	url = https://github.com/Balajinator-FMI/ml-service

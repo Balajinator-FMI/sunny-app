@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/Baladjinator-FMI/sunny-app/blob/readme-assets/logo.png?raw=true"/>
+  <img src="https://github.com/Balajinator-FMI/sunny-app/blob/main/readme-assets/logo.png"/>
 </p>
 
 ## Съдържание:
